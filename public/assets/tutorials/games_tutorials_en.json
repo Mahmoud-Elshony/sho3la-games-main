@@ -1,0 +1,574 @@
+{
+  "NBACK": [
+    [
+      "nback1.png",
+      "nback2.png",
+      "nback3.png",
+      "spatialMatch3en.png"
+    ],
+    [
+      "1. A face will appear on screen.",
+      "2. Does the face match the face that appeared 2 steps earlier?",
+      "3. Remember, compare with the face 2 steps earlier, and not the previous face.",
+      "4. Tap YES if the faces match, otherwise tap NO."
+    ]
+  ],
+  "PARTIALMATCH": [
+    [
+      "partialMatch1.png",
+      "partialMatch2en.png",
+      "partialMatch3en.png",
+      "partialMatch4ben.png",
+      "partialMatch5en.png"
+    ],
+    [
+      "1. A new symbol will appear on the screen. Compare each new symbol to the previous one.",
+      "2. Tap YES if both shape AND color match.",
+      "3. Tap NO if neither shape NOR color matches.",
+      "4. Tap PARTIALLY if ONLY the shape matches.",
+      "5. Tap PARTIALLY if ONLY the color matches."
+    ]
+  ],
+  "WORDSEARCH": [
+    [
+      "wordsearch1en.png",
+      "wordsearch2en.png",
+      "wordsearch3en.png",
+      "wordsearch4en.png"
+    ],
+    [
+      "1. Words will appear at the bottom. Find and mark them on the board.",
+      "2. Words can be found horizontally in both ways.",
+      "3. Words can be found vertically in both ways.",
+      "4. Words can be found diagonally in both ways."
+    ]
+  ],
+  "WORDCONNECT": [
+    [
+      "wordsearch1.png",
+      "wordsearch2.png",
+      "wordsearch3.png",
+      "wordsearch4.png"
+    ],
+    [
+      "1. ستظهر مجموعة كلمات بالأسفل. ابحث عنها وظللها.",
+      "2. قد تجد الكلمات بشكل أفقي في أي اتجاه.",
+      "3. قد تجد الكلمات بشكل رأسي في أي اتجاه.",
+      "4. قد تجد الكلمات بشكل قطري في أي اتجاه."
+    ]
+  ],
+  "BAGGAGE": [
+    [
+      "baggage1en.png",
+      "baggage2.png",
+      "baggage3en.png"
+    ],
+    [
+      "1. Star names will appear. Memorize them well.",
+      "2. You will be tested in different mini-games.",
+      "3. Tap the star names that appeared earlier."
+    ]
+  ],
+  "SAFEPATH": [
+    [
+      "safe1.png",
+      "safe2.png",
+      "safe3.png"
+    ],
+    [
+      "1. Hazard tiles will appear briefly. Remember them.",
+      "2. Two squares will appear on the board.",
+      "3. Connect the two squares while avoiding the hazard tiles."
+    ]
+  ],
+  "RAINDROPS": [
+    [
+      "rain1.png",
+      "rain2.png",
+      "rain3en.png",
+      "rain4.png"
+    ],
+    [
+      "1. Math bubbles will start falling.",
+      "2. Each bubble contains a different equation.",
+      "3. Solve each equation quickly before bubbles hit the spikes.",
+      "4. The game ends when two bubbles hit the spikes."
+    ]
+  ],
+  "BALLARMY": [
+    [
+      "sudoko1.png",
+      "sudoko2.png"
+    ],
+    [
+      "1. ستظهر أمامك لوحة من الرموز غير مكتملة.",
+      "2. ضع القطع الناقصة بحيث لا يتكرر الشكل في أي عمود أو صف."
+    ]
+  ],
+  "MISSING": [
+    [
+      "missing1.png",
+      "missing2.png",
+      "missing3.png"
+    ],
+    [
+      "1. Shapes will appear at the top. Remember them.",
+      "2. They will drop through a funnel, and one shape will disappear.",
+      "3. Tap the missing shape."
+    ]
+  ],
+  "ESTIMATION": [
+    [
+      "estim1.png",
+      "estim2.png",
+      "estim3enN.png"
+    ],
+    [
+      "1. Add the numbers on screen. In this example, the result is around 10.",
+      "2. Slide your finger to the estimated sum on the number line.",
+      "3. The actual result will appear after you submit your answer."
+    ]
+  ],
+  "MEMORYMATRIX": [
+    [
+      "memoryMatrix1_new.png",
+      "memoryMatrix2_new.png"
+    ],
+    [
+      "1. Blue tiles will appear briefly. Remember them well.",
+      "2. Tap the blue tiles that appeared."
+    ]
+  ],
+  "THECUBE": [
+    [
+      "cube1_new.png",
+      "cube2_en.png",
+      "cube3en.png",
+      "cube4_en.png"
+    ],
+    [
+      "1. Swipe UP, DOWN, LEFT or RIGHT to match the instructions on the cube.",
+      "2. In this example, you should swipe right anywhere on the screen.",
+      "3. If you see \"NOTHING\", just wait and don't swipe.",
+      "4. In this example, you should swipe left because red is on the left."
+    ]
+  ],
+  "SPINCYCLE": [
+    [
+      "spincycle1.png",
+      "spincycle2en.png",
+      "spatialMatch3en.png"
+    ],
+    [
+      "1. A cycle of shapes will appear. Remember the shape, color, movement, and size.",
+      "2. A new cycle will appear. Compare it to the previous cycle.",
+      "3. Tap YES or NO to answer each question."
+    ]
+  ],
+  "MIGRATION": [
+    [
+      "migration1.png",
+      "migration2.png",
+      "migration3.png"
+    ],
+    [
+      "1. ستظهر مجموعة من الطائرات الورقية على الشاشة.",
+      "2. حرّك إصبعك في الاتجاه الذي تشير إليه الطائرة بالمنتصف.",
+      "3. لا تجعل الطائرات الأخرى تشتت تركيزك."
+    ]
+  ],
+  "MATCHPAIRS": [
+    [
+      "pairs1en.png",
+      "pairs2en.png",
+      "pairs3en.png"
+    ],
+    [
+      "1. Tiles with letters and numbers will appear.",
+      "2. Tap on tiles with matching pairs.",
+      "3. In advanced levels, there will be multiple correct pairs."
+    ]
+  ],
+  "PINBALL": [
+    [
+      "pinball1.png",
+      "pinball2.png",
+      "pinball3.png",
+      "pinball4.png",
+      "pinball5.png"
+    ],
+    [
+      "1. ستنطلق كرة من نقطة البداية.",
+      "2. ستتحرك الكرة في اتجاه مستقيم.",
+      "3. إذا اصطمدت الكرة بالحاجز، ستغير اتجاهها بزاوية 90 درجة.",
+      "4. اضغط على المكان الذي ستصل إليه الكرة في النهاية.",
+      "5. في المراحل المتقدمة ستختفي الحواجز. استخدم ذاكرتك!"
+    ]
+  ],
+  "SLICER": [
+    [
+      "sudoko1.png",
+      "sudoko2.png"
+    ],
+    [
+      "1. ستظهر أمامك لوحة من الرموز غير مكتملة.",
+      "2. ضع القطع الناقصة بحيث لا يتكرر الشكل في أي عمود أو صف."
+    ]
+  ],
+  "LINER": [
+    [
+      "sudoko1.png",
+      "sudoko2.png"
+    ],
+    [
+      "1. ستظهر أمامك لوحة من الرموز غير مكتملة.",
+      "2. ضع القطع الناقصة بحيث لا يتكرر الشكل في أي عمود أو صف."
+    ]
+  ],
+  "BREVITY": [
+    [
+      "brevity1enN.png"
+    ],
+    [
+      "1. Tap the unnecessary phrase to make the sentence shorter."
+    ]
+  ],
+  "WORDMEMORY": [
+    [
+      "wordmemory1en.png",
+      "wordmemory2en.png"
+    ],
+    [
+      "1. Read the definition.",
+      "2. Complete the word by choosing the letters."
+    ]
+  ],
+  "CHALKBOARD": [
+    [
+      "chalkBoard1.png",
+      "chalkBoard2.png",
+      "chalkBoard3en.png",
+      "chalkBoard4en.png"
+    ],
+    [
+      "1. Each card will contain a math expression.",
+      "2. Tap the card with the greater number.",
+      "3. If both cards are equal, tap the EQUAL button.",
+      "4. Each 5 correct answers in a row will add 10 seconds."
+    ]
+  ],
+  "VISUALDISKS": [
+    [
+      "diskt1.png",
+      "diskt2ben.png"
+    ],
+    [
+      "1. Stacked discs will appear.",
+      "2. Choose the top view that matches the side view."
+    ]
+  ],
+  "FOURLETTERS": [
+    [
+      "letters1en.png",
+      "letters2en.png"
+    ],
+    [
+      "1. Letters will appear.",
+      "2. Create a valid word from the shown letters."
+    ]
+  ],
+  "SUDOKO": [
+    [
+      "sudoko1.png",
+      "sudoko2.png"
+    ],
+    [
+      "1. A board with symbol blocks will appear.",
+      "2. Drag blocks to fill the board without duplicating symbols in any row or column."
+    ]
+  ],
+  "SPEEDMATCH": [
+    [
+      "speedMatch1.png",
+      "speedMatch2.png",
+      "spatialMatch3en.png"
+    ],
+    [
+      "1. A shape will appear. Memorize it.",
+      "2. Does the shape match the one before it?",
+      "3. Tap YES or NO to answer."
+    ]
+  ],
+  "TETRISBLOCKS": [
+    [
+      "blocks1.png",
+      "blocks2.png"
+    ],
+    [
+      "1. An empty board will appear on screen.",
+      "2. Drag the blocks to fill the board correctly."
+    ]
+  ],
+  "PROCESSING": [
+    [
+      "process1enN.png",
+      "process2enN.png"
+    ],
+    [
+      "1. Read the words that appear on screen.",
+      "2. Answer questions correctly to gain points."
+    ]
+  ],
+  "BRAINSHIFT": [
+    [
+      "faceShift1.png",
+      "faceShift2en.png",
+      "faceShift3en.png",
+      "spatialMatch3en.png"
+    ],
+    [
+      "1. A number and an emoji will appear.",
+      "2. Decide if the number on the top card is even.",
+      "3. Decide if the emoji on the bottom card is smiling.",
+      "4. Tap YES or NO to answer each question."
+    ]
+  ],
+  "SPEEDPACK": [
+    [
+      "speedPack1.png",
+      "speedPack2.png",
+      "speedPack3.png"
+    ],
+    [
+      "1. ستظهر أغراض داخل الحقيبة.",
+      "2. اضغط على مربع أصفر لتضع الجوال فيه و تغلق الحقيبة.",
+      "3. يجب أن لا يلمس الجوال أغراض أخرى بعد غلق الحقيبة."
+    ]
+  ],
+  "PUZZLEBOX": [
+    [
+      "tut_cards.png",
+      "tut_cards.png",
+      "tut_cards.png",
+      "tut_cards.png"
+    ],
+    [
+      "1. قم بالضغط على الرقم الذي به أعلى نتيجة من البطاقتين.",
+      "2. قم بالضغط على الرقم الذي به أعلى نتيجة من البطاقتين.",
+      "3. قم بالضغط على الرقم الذي به أعلى نتيجة من البطاقتين.",
+      "4. قم بالضغط على الرقم الذي به أعلى نتيجة من البطاقتين."
+    ]
+  ],
+  "PATHREVERSE": [
+    [
+      "pathReverse1.png",
+      "pathReverse2.png"
+    ],
+    [
+      "1. A path will appear between the blocks.",
+      "2. Connect the blocks in reverse order."
+    ]
+  ],
+  "UNIQUE": [
+    [
+      "unique1.png",
+      "unique2.png",
+      "unique3.png"
+    ],
+    [
+      "1. Different shapes will appear.",
+      "2. Tap on the unique shape.",
+      "3. Examine shape, color, and pattern to find the unique shape."
+    ]
+  ],
+  "COLORMATCH": [
+    [
+      "colorMatch1en.png",
+      "colorMatch2en.png",
+      "spatialMatch3en.png"
+    ],
+    [
+      "1. Two words will appear.",
+      "2. Decide if the meaning of the upper word matches the font color of the bottom word.",
+      "3. Tap YES or NO to answer."
+    ]
+  ],
+  "FLOW": [
+    [
+      "flow1.png",
+      "flow2.png",
+      "flow3.png",
+      "flow4.png"
+    ],
+    [
+      "1. ستظهر مجموعة من الأسماك الخضراء أو الصفراء.",
+      "2. ستتحرك الأسماك في اتجاه رأسي أو أفقي.",
+      "3. حرّك إصبعك في الاتجاه الذي \"تشير\" إليه الأسماك الخضراء.",
+      "4. حرّك إصبعك في الاتجاه الذي \"تتحرك\" فيه الأسماك الصفراء."
+    ]
+  ],
+  "MUSTSORT": [
+    [
+      "sort1.png",
+      "sort2.png"
+    ],
+    [
+      "1. A group of pets will appear.",
+      "2. Tap on the left or right side to sort pets quickly."
+    ]
+  ],
+  "DOTS": [
+    [
+      "dots1.png",
+      "dots2.png",
+      "dots3.png"
+    ],
+    [
+      "1. A board will appear with pairs of dots.",
+      "2. Connect each pair of dots to fill the board.",
+      "3. You have to fill the entire board without intersecting paths."
+    ]
+  ],
+  "CRAZYFEET": [
+    [
+      "feet1.png",
+      "feet2.png",
+      "feet3.png"
+    ],
+    [
+      "1. Tap on the blue tiles to run.",
+      "2. Don't step on the white tiles.",
+      "3. Run faster to get additional time!"
+    ]
+  ],
+  "HEXA": [
+    [
+      "hexa1.png",
+      "hexa2.png"
+    ],
+    [
+      "1. An empty hexa board will appear on screen.",
+      "2. Drag the hexa blocks to fill the board correctly."
+    ]
+  ],
+  "RULESTILES": [
+    [
+      "rules1en.png",
+      "rules2en.png"
+    ],
+    [
+      "1. A rule will appear on screen. Apply it on the tiles.",
+      "2. Memorize each rule. You will be asked to follow previous rules."
+    ]
+  ],
+  "WORDPAIRS": [
+    [
+      "wordpairs1en.png",
+      "wordpairs2en.png"
+    ],
+    [
+      "1. A group of words will appear.",
+      "2. Tap on synonym pairs (words with similar meaning)."
+    ]
+  ],
+  "SPATIALSPEEDMATCH": [
+    [
+      "spatialMatch1.png",
+      "spatialMatch2.png",
+      "spatialMatch3en.png"
+    ],
+    [
+      "1. A shape will appear. Memorize it.",
+      "2. Does the shape match the one before it?",
+      "3. Tap YES or NO to answer."
+    ]
+  ],
+  "TRAIL": [
+    [
+      "trailt1.png",
+      "trailt2.png",
+      "trailt3.png"
+    ],
+    [
+      "1. ستظهر أمامك شخصية في لوحة مربعات.",
+      "2. الأسهم ستدلك على الطريق الذي ستأخذه الشخصية.",
+      "3. تخيل الطريق في رأسك ثم اضغط على المربع النهائي الذي ستصل إليه الشخصية."
+    ]
+  ],
+  "COFFEE": [
+    [
+      "tut_cards.png",
+      "tut_cards.png",
+      "tut_cards.png",
+      "tut_cards.png"
+    ],
+    [
+      "1. قم بالضغط على الرقم الذي به أعلى نتيجة من البطاقتين.",
+      "2. قم بالضغط على الرقم الذي به أعلى نتيجة من البطاقتين.",
+      "3. قم بالضغط على الرقم الذي به أعلى نتيجة من البطاقتين.",
+      "4. قم بالضغط على الرقم الذي به أعلى نتيجة من البطاقتين."
+    ]
+  ],
+  "SQUARE": [
+    [
+      "square1.png",
+      "square2.png",
+      "square3.png"
+    ],
+    [
+      "1. A target number will appear on top.",
+      "2. Number blocks will appear on the screen.",
+      "3. Add numbers until their sum matches the target."
+    ]
+  ],
+  "LOWPOP": [
+    [
+      "lowpop1.png"
+    ],
+    [
+      "Tap the numbers from smallest to largest."
+    ]
+  ],
+  "SPOTDIFFERENCE": [
+    [
+      "tut_cards.png",
+      "tut_cards.png",
+      "tut_cards.png",
+      "tut_cards.png"
+    ],
+    [
+      "1. قم بالضغط على الرقم الذي به أعلى نتيجة من البطاقتين.",
+      "2. قم بالضغط على الرقم الذي به أعلى نتيجة من البطاقتين.",
+      "3. قم بالضغط على الرقم الذي به أعلى نتيجة من البطاقتين.",
+      "4. قم بالضغط على الرقم الذي به أعلى نتيجة من البطاقتين."
+    ]
+  ],
+  "GRAMMAR": [
+    [
+      "grammar1en.png"
+    ],
+    [
+      "1. Tap the correct word to fill in the blank."
+    ]
+  ],
+  "TYPOS": [
+    [
+      "typos1en.png",
+      "typos2en.png"
+    ],
+    [
+      "1. An email will appear on the screen.",
+      "2. Tap spelling and grammar mistakes to fix them."
+    ]
+  ],
+  "TRICKYWORDS": [
+    [
+      "tricky1en.png",
+      "tricky2en.png"
+    ],
+    [
+      "1. Tap the correct word to fill in the blank. This game focuses on homophones.",
+      "2. Homophones are words with similar pronunciation but different spelling and meaning."
+    ]
+  ]
+}
